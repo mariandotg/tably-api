@@ -1,4 +1,4 @@
-package com.mariandotg.springboot.starter;
+package com.tably;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
